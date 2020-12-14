@@ -21,9 +21,11 @@ Adaptive application controls are an intelligent and automated solution for defi
  ```
   ###### Advanced Protection
   Select the recommendation, or open the adaptive application controls page to view the list of suggested known-safe applications and groups of machines.
+  >Select the required group and click ```Audit``` to configure.
+  >
   >All the configurations in machines appear as rules.
   >
-  >We can add custom rules by using ```+Add Rule``` and click ```Audit``` to apply the rule.
+  >We can add custom rules by using ```+Add Rule```.
   
   The Adaptive application controls page opens with your VMs grouped into the following tabs:
   

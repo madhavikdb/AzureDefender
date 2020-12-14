@@ -13,7 +13,7 @@ Adaptive application controls are an intelligent and automated solution for defi
   ###### Enable and Configure Azure Defender 
  Adaptive application controls for defining safe applications should be enabled on your machines.
  
- ![Screenshot](config2.jpg)
+ ![Screenshot](config2.png)
  
  To enable Azure Defender:
  ```
